@@ -1,3 +1,1 @@
-- ✨ Hi, I’m @eilling
-- 👀 I’m interested in basic code
-- 🌱 I’m currently learning functions  
+Hello
